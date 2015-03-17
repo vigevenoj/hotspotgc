@@ -9,3 +9,5 @@ Currently highlights
 Does not currently highlight
 * CMS collections (any phase)
 * G1GC collections
+
+Does not autoload. To set highlighting, set filetype=sungc
