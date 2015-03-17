@@ -1,5 +1,6 @@
 # hotspotgc
 Vim syntax highlighting for Sun/Oracle HotSpot GC logs
+
 Currently highlights 
 * ParNew GC with tenuring information
 * Full GC
